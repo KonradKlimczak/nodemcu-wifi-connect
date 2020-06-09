@@ -1,6 +1,6 @@
 local secrets = {}
 
-secrets.ID = '<WiFi name>'
-secrets.PASSWORD = '<WiFi password>'
+secrets.ID = "<WiFi name>"
+secrets.PASS = "<WiFi password>"
 
 return secrets
